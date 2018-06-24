@@ -5,7 +5,7 @@
    打开命令行，进入到保存项目的文件夹，输入如下命令：
 
    ```
-   git clone https://github.com/zmrenwu/django-blog-tutorial.git
+   git clone https://github.com/JacksonLeon/my_blog.git
    ```
 
 2. 创建并激活虚拟环境
